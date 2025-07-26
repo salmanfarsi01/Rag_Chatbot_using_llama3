@@ -1,0 +1,12 @@
+# Core
+transformers
+torch
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchainhub
+pypdf
+sentence-transformers
+accelerate
